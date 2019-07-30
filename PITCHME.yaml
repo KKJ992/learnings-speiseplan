@@ -1,6 +1,6 @@
 theme            : template
 
-theme-background : [ "linear-gradient(180deg, white 77%, #0094CD 23%)" ]
+theme-background : [ "linear-gradient(to bottom right, white 77%, #0094CD 23%)" ]
 theme-headline   : [ "Open Sans", "#c9c9c9", "uppercase" ]
 theme-byline     : [ "Open Sans", "#0094CD", "uppercase" ]
 theme-text       : [ "Open Sans", "#1C1C1C", "none" ]
