@@ -12,8 +12,8 @@
 @img[anmeldung](assets/img/anmeldung.png)
 @snapend
 
-@snap[west span-70 text-left text]
-@ul[text1](false)
+@snap[west span-70 text-left text-09]
+@ul[](false)
 - Das USU Speiseplan-Portlet besteht aus 3 einzelnen Portlets: Anmeldung, Verwaltung, Auswertung
 - Das Auswertungs-Portlet stellt eine .txt Datei zum Download zur Verfügung
 - Die .txt Datei ist für das Peras-System gedacht und dient zur Abrechnung der Bewirtungen
