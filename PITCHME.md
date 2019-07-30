@@ -51,7 +51,7 @@
 
 ---
 @snap[north-west]
-#### schierigkeit
+#### schwierigkeit
 @snapend
 
 @snap[west span-90 text-left text-07]
@@ -64,5 +64,30 @@
 - Das Projekt ist sehr umfangreich trotz weniger Funktionen
 - Änderungen an bestehendem Code sehr schwierig
 - Keine richtige Dokumentation
+@ulend
+@snapend
+
+---
+@snap[north-west]
+#### 
+@snapend
+
+@snap[west span-40 text-left text-05]
+@ul[](false)
+- Liferay 6.2
+- Liferay Developer Studio (Eclipse)
+- MySQL Workbench
+- Apache Directory Studio (LDAP)
+@ulend
+@snapend
+
+@snap[east span-40 text-left text-05]
+@ul[](false)
+- Java Server Faces (PrimeFaces)
+- Quartz Job Scheduler (CronTrigger)
+- Apache POI (für MS Documents)
+- Spring
+- Liferay MailService
+- Liferay Permissions (Checker)
 @ulend
 @snapend
