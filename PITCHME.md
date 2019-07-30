@@ -1,13 +1,13 @@
 ---
-@span[midpoint]
+@snap[midpoint]
 ## learnings speiseplan-portlet
 @spanend
 
 ---
 @span[north-west]
 #### ist-zustand
-@spanend
+@snapend
 
-@span[east]
+@snap[east]
 @img[](assets/img/portlet live.png)
-@spanend
+@snapend
