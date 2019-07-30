@@ -22,5 +22,5 @@
 @snapend
 
 ---
-test1
-@css[text](test2)
+@css[text1](test1)
+@css[text2](test2)
