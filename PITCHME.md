@@ -4,7 +4,7 @@
 @spanend
 
 ---
-@span[north-west]
+@snap[north-west]
 #### ist-zustand
 @snapend
 
