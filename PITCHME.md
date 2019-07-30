@@ -69,10 +69,10 @@
 
 ---
 @snap[north-west]
-#### 
+#### Verwendete Software / frameworks
 @snapend
 
-@snap[west span-40 text-left text-05]
+@snap[west span-50 text-left text-07]
 @ul[](false)
 - Liferay 6.2
 - Liferay Developer Studio (Eclipse)
@@ -81,7 +81,7 @@
 @ulend
 @snapend
 
-@snap[east span-40 text-left text-05]
+@snap[east span-50 text-left text-07]
 @ul[](false)
 - Java Server Faces (PrimeFaces)
 - Quartz Job Scheduler (CronTrigger)
