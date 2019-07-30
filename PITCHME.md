@@ -148,7 +148,7 @@ Offene Fragen:
 @ulend
 @snapend
 
----?color=linear-gradient(to bottom, #0094CD 30%, white 70%)
+---?color=linear-gradient(to top, white 70%, #0094CD 30%)
 @snap[north-west]
 ## vielen dank!
 @snapend
