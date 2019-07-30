@@ -9,5 +9,5 @@
 @snapend
 
 @snap[east]
-@img[](assets/img/portlet live.png)
+@img[](assets/img/anmeldung.png)
 @snapend
