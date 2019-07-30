@@ -112,3 +112,37 @@
 @snap[south fragment]
 @img[abrechnung](assets/img/abrechnung.png)
 @snapend
+
+---
+@snap[north-west]
+#### sonstiges
+@snapend
+
+@snap[west span-90 text-left text-07]
+@ul[](false)
+- Anleitung „Lokale Testumgebung aufsetzen“ geschrieben
+- Alle Änderungen dokumentiert
+- Tests für neue Funktionen geschrieben
+- Kommunikation + Dokumentation
+@ulend
+@snapend
+
+---
+@snap[north-west]
+#### ausblick
+@snapend
+
+@snap[west span-50 text-left text-07]
+Mögliche neue Funktionen:
+@ul[](false)
+- Auswahl für vegetarische Gerichte
+- Interface zum Bearbeiten von Produkten und Preisen (Liferay Commerce?)
+@ulend
+@snapend
+
+@snap[east span-50 text-left text-07]
+@ul[](false)
+- Ist das Projekt noch Wartbar / Erweiterbar?
+- Sollte das ganze Projekt neu aufgesetzt werden?
+@ulend
+@snapend
