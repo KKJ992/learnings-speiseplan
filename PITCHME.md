@@ -8,6 +8,6 @@
 #### ist-zustand
 @snapend
 
-@snap[east]
+@snap[east span-70]
 @img[](assets/img/anmeldung.png)
 @snapend
