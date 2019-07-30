@@ -11,5 +11,5 @@ theme-margins    : [ "0", "15px" ]
 
 theme-override : assets/css/PITCHME.css
 
-logo : assets/img/unymira small.png
+logo : assets/img/unymira.png
 logo-position : top-right
