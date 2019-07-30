@@ -22,5 +22,5 @@
 @snapend
 
 ---
-@css[text1](test1)
-@css[text2](test2)
+@size[1.2em](test1)
+@size[3.0em](test2)
