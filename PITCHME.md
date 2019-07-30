@@ -12,7 +12,7 @@
 @img[anmeldung](assets/img/anmeldung.png)
 @snapend
 
-@snap[west span-50 text-left]
+@snap[west span-50 text-left text]
 @ul[](false)
 - Das USU Speiseplan-Portlet besteht aus 3 einzelnen Portlets: Anmeldung, Verwaltung, Auswertung
 - Das Auswertungs-Portlet stellt eine .txt Datei zum Download zur Verfügung
