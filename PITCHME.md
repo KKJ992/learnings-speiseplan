@@ -105,10 +105,10 @@
 @ulend
 @snapend
 
-@snap[south-east]
-@img[abrechnung](assets/img/abrechnung.png)
-@snapend
-
 @snap[east]
 @img[auswertung](assets/img/auswertung.png)
+@snapend
+
+@snap[south fragment]
+@img[abrechnung](assets/img/abrechnung.png)
 @snapend
