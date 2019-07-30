@@ -97,7 +97,7 @@
 #### ergebnis
 @snapend
 
-@snap[west span-50 text-left text-07]
+@snap[west span-40 text-left text-06]
 @ul[](false)
 - Auswahl des Monats unter „Abrechnung für“
 - Direkter Download einer Exceldatei über Download-Button
