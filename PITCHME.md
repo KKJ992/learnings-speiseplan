@@ -148,13 +148,13 @@ Offene Fragen:
 @ulend
 @snapend
 
----?color=linear-gradient(to top, white 70%, #0094CD 30%)
+---?color=linear-gradient(to top, #0094CD, white)
 @snap[north-west]
 ## vielen dank!
 @snapend
 
 @snap[west text-left text-08]
-@css[textUny](Jan Kaleja)<br>
+@css[text-white](Jan Kaleja)<br>
 Junior Consultant<br>
 <br>
 jan.kaleja@unymira.com
