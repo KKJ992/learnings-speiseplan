@@ -1,5 +1,13 @@
 ---
-new
+@span[midpoint]
+## learnings speiseplan-portlet
+@spanend
 
 ---
-next
+@span[north-west]
+#### ist-zustand
+@spanend
+
+@span[east]
+@img[](assets/img/portlet live.png)
+@spanend
