@@ -51,7 +51,7 @@
 
 ---
 @snap[north-west]
-#### 
+#### schierigkeit
 @snapend
 
 @snap[west span-90 text-left text-07]
@@ -59,7 +59,7 @@
 - Das Projekt lokal zum laufen bringen
 - Manche Funktionen sind von bestimmten Einträgen in der Datenbank abhängig
 @ulend
-<br><br>
+<br>
 @ul[](false)
 - Das Projekt ist sehr umfangreich trotz weniger Funktionen
 - Änderungen an bestehendem Code sehr schwierig
