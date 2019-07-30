@@ -109,6 +109,6 @@
 @img[abrechnung](assets/img/abrechnung.png)
 @snapend
 
-@snap[north-east]
+@snap[east]
 @img[auswertung](assets/img/auswertung.png)
 @snapend
