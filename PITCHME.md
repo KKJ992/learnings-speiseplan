@@ -91,3 +91,24 @@
 - Liferay Permissions (Checker)
 @ulend
 @snapend
+
+---
+@snap[north-west]
+#### ergebnis
+@snapend
+
+@snap[west span-50 text-left text-07]
+@ul[](false)
+- Auswahl des Monats unter „Abrechnung für“
+- Direkter Download einer Exceldatei über Download-Button
+- Send Email Button sendet Abrechnung an Buchhaltung (+ Quartz Job)
+@ulend
+@snapend
+
+@snap[south-west]
+@img[abrechnung](assets/img/abrechnung.png)
+@snapend
+
+@snap[east]
+@img[auswertung](assets/img/auswertung.png)
+@snapend
