@@ -4,13 +4,13 @@
 }
 
 .reveal img.abrechnung {
-  width: 65%;
-  height: 65%;
+  width: 75%;
+  height: 75%;
 }
 
 .reveal img.auswertung {
-  width: 25%;
-  height: 25%;
+  width: 40%;
+  height: 40%;
 }
 
 .reveal ul, .reveal ul li {
