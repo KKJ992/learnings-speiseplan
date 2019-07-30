@@ -26,7 +26,7 @@
 #### feststellung
 @snapend
 
-@snap[west span-70 text-left text-07]
+@snap[west span-90 text-left text-07]
 @ul[](false)
 - Für die Abrechnungen der Bewirtungen wird Peras gar nicht verwendet
 - Eine Tabelle wird vom Empfang monatlich per Hand ausgefüllt
@@ -39,7 +39,7 @@
 #### soll-zustand
 @snapend
 
-@snap[west span-70 text-left text-07]
+@snap[west span-90 text-left text-07]
 @ul[](false)
 - Die Tabelle soll in Form einer Exceldatei generiert werden
 - Am Ende jeden Monats soll diese Datei automatisch an die Buchhaltung gesendet werden
