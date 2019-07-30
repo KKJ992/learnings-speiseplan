@@ -1,7 +1,7 @@
 ---
 @snap[midpoint]
 ## learnings speiseplan-portlet
-@spanend
+@snapend
 
 ---
 @snap[north-west]
