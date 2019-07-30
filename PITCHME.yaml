@@ -1,1 +1,12 @@
+theme            : template
 
+theme-background : [ "linear-gradient(to bottom, white 80%, #0094CD 20%)" ]
+theme-headline   : [ "Open Sans", "#c9c9c9", "uppercase" ]
+theme-byline     : [ "Open Sans", "#0094CD", "uppercase" ]
+theme-text       : [ "Open Sans", "#1C1C1C", "none" ]
+theme-links      : [ "#5289F7", "#5254F7" ]
+theme-code       : [ "Source Code Pro" ]
+theme-controls   : [ "#484848" ]
+theme-margins    : [ "0", "15px" ]
+
+theme-override : assets/css/PITCHME.css
