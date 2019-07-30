@@ -1,4 +1,4 @@
----
+---?image=assets/img/globus_bg.jpg
 @snap[midpoint]
 ## learnings speiseplan-portlet
 @snapend
