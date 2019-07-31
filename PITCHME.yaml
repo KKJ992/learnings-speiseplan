@@ -6,7 +6,7 @@ theme-byline     : [ "Open Sans", "#0094CD", "uppercase" ]
 theme-text       : [ "Open Sans", "#1C1C1C", "none" ]
 theme-links      : [ "#5289F7", "#5254F7" ]
 theme-code       : [ "Source Code Pro" ]
-theme-controls   : [ "#484848" ]
+theme-controls   : [ "#d3ccff" ]
 theme-margins    : [ "0", "15px" ]
 
 theme-override : assets/css/PITCHME.css
